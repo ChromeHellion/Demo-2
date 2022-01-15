@@ -13,3 +13,7 @@
 5.) now use command " git remote add origin 'link of repository' " to add reference
 
 6.) to verify use " git remote -v"
+
+7.) use command " git push -u origin master"
+
+8.) Once -u (upstream) is used for the first time you can use " git push " the next time you want to push files into GitHub.
