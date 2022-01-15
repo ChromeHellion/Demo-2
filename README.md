@@ -8,4 +8,8 @@
 
 3.) use " git commit -m "
 
-4.)
+4.)  Create empty repository in github (file name should be same) and copy SSH link from the repository
+
+5.) now use command " git remote add origin 'link of repository' " to add reference
+
+6.) to verify use " git remote -v"
