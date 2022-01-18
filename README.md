@@ -17,3 +17,7 @@
 7.) use command " git push -u origin master"
 
 8.) Once -u (upstream) is used for the first time you can use " git push " the next time you want to push files into GitHub.
+
+## Contributors
+
+rehber george jason
